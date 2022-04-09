@@ -1,6 +1,5 @@
 import { FC } from 'react'
 import styles from './styling.module.css'
-import './styling.css'
 import classNames from 'classnames/bind'
 import { bind } from './bind'
 
